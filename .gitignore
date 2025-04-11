@@ -1,0 +1,10 @@
+# Python
+venv/ __pycache__/ *.pyc
+# Środowisko
+.env config.env
+# Duże pliki
+*.wav *.pt *.bin *.pth
+# IDE
+.idea/ .vscode/
+# Logi
+*.log
